@@ -1,0 +1,17 @@
+.LabelSide {
+    display: inline-block;
+    outline: 1px solid block;
+}
+.InputSide {
+    display: inline-block;
+    outline: 1px solid block;
+}
+.spacer {
+    display: inline-block;
+    outline: 1px solid block;
+    width: 10%;
+}
+button {
+    background-color: gray;
+    
+}
